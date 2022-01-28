@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x216bc21F594FcD8A6123a04533c5F41CABe45CCb",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x216bc21F594FcD8A6123a04533c5F41CABe45CCb",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Test NFT dapp",
+  "SYMBOL": "PE",
+  "MAX_SUPPLY": 320,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/purpleeye-vfz8lnyiex",
+  "SHOW_BACKGROUND": true
+}
